@@ -1,7 +1,7 @@
 {
 	"schema_version": 1,
 	"quilt_loader": {
-		"group": "io.github.The-Brickler",
+		"group": "io.github.The_Brickler",
 		"id": "smores",
 		"version": "${version}",
 		"metadata": {
@@ -19,7 +19,7 @@
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "io.github.The-Brickler.smores.Smores"
+			"init": "io.github.The_Brickler.smores.Smores"
 		},
 		"depends": [
 			{

@@ -1,6 +1,6 @@
-package io.github.TheBrickler.smores.mixin;
+package io.github.The_Brickler.smores.mixin;
 
-import io.github.TheBrickler.smores.Smores;
+import io.github.The_Brickler.smores.Smores;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
